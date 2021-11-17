@@ -3,10 +3,12 @@
 -Una herramienta escrita en bash que te automatiza ataques Wifi estilo Deauth, Crear AP falsos y mas cosas
 
 -Requisitos
+
 Necesario Root
 Una antena con chip compatible con el modo monitor
 
 -Testeado
+
 Parrot os ✓
 Kali linux ✓
 
