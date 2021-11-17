@@ -15,6 +15,7 @@ Parrot os ✓
 Kali linux ✓
 
 El script de dependencias solo se puede utilizar en distros basadas en el sistema de paquetes apt
+
 Para usar el script WifiLag en distros no basadas en apt como arch, tendremos que satisfacer manualmente las dependencias
 
 Antes de ejecutar los scripts
