@@ -1,7 +1,7 @@
 # WifiLag
 ¿Que es WifiLag?
 
--Una herramienta escrita en bash que te automatiza ataques Wifi estilo Deauth, Crear AP falsos y mas cosas
+Una herramienta escrita en bash que te automatiza ataques Wifi estilo Deauth, Crear AP falsos y mas cosas
 
 -Requisitos
 
@@ -18,6 +18,7 @@ El script de dependencias solo se puede utilizar en distros basadas en el sistem
 Para usar el script WifiLag en distros no basadas en apt como arch, tendremos que satisfacer manualmente las dependencias
 
 Antes de ejecutar los scripts
+
 chmod +x dependencias.sh wifilag.sh
 
 Para usarla necesitas ejecutar con anterioridad el script de dependencias 
