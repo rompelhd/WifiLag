@@ -13,6 +13,7 @@ Crear AP falsos ✓
 -Requisitos:
 
 Necesario Root
+
 Una antena con chip compatible con el modo monitor
 
 -Testeado:
